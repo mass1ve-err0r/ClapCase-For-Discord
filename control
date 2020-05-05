@@ -1,0 +1,9 @@
+Package: de.saadatbaig.clapcasefordiscord
+Name: ClapCase for Discord
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is uroboro's fault
+Maintainer: Saadat Baig
+Author: Saadat Baig
+Section: Tweaks
